@@ -8,4 +8,5 @@ there's 2 version of glup, big and little glup, big without snapable pcb and lit
 why glup? dunno, the name is not fixed but that's the name that I just came out with hehhe
 
 ## WARNING!!!!
-Untested board, please use it with your own risk!
+Untested board, please use it with your own risk!!
+and I need to fix the spacing
